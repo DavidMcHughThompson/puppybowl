@@ -1,0 +1,27 @@
+/* waht this needs. 
+Stylings for the page and headings
+styling for the cards so that they look nice
+styling to make sure the cards all work
+HTML for a menu or something  */
+
+/* Add this CSS to your stylesheet */
+.player-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.player-card h2 {
+    margin: 0 0 8px;
+}
+
+.player-card p {
+    margin: 4px 0;
+}
+
+.player-card img {
+    max-width: 100%;
+    border-radius: 8px;
+}
